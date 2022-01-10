@@ -279,6 +279,9 @@ body {
   .rightimg {
     height: 30px !important;
   }
+  .qr_code.text-center img {
+    width: 60px !important;
+  }
 }
 
 @media print {
